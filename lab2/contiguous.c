@@ -176,6 +176,14 @@ int print_free_block(FILE *fp,mem_pool *pool) {
     return cnt;
 }
 
+int get_fragments(mem_pool *pool){
+    int cnt = 0;
+    block_node *t;
+    for(t = pool->free_mem.head->next;t != pool->free_mem.tail;t = t->next)
+        cnt ++;
+    return cnt;
+}
+
 void destroy_pool(mem_pool *pool) {
     block_node *t,*tn;
 

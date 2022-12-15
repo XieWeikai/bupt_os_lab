@@ -125,7 +125,7 @@ int main(int argc,char **argv) {
     int pos,num,n,size;
     char cmd[50];
     for(;;){
-        printf(">>");
+        if(!ignore) printf(">>");
         scanf("%s",cmd);
         if(strcmp(cmd,"alloc") == 0){
             scanf("%d%d%d",&pos,&num,&size);
@@ -139,9 +139,15 @@ int main(int argc,char **argv) {
             Free(array[pos]);
         } else
             break;
+
         if(pool != NULL && !ignore) {
-            int tmp = print_free_block(output, pool);
-            if(tmp > max_fragments)
+            print_free_block(output, pool);
+        }
+
+        if(pool != NULL) {
+            int tmp = get_fragments(pool);
+            // fprintf(output,"%d\n",tmp);
+            if (tmp > max_fragments)
                 max_fragments = tmp;
         }
     }
@@ -150,6 +156,12 @@ int main(int argc,char **argv) {
 
     if(pool != NULL)
         destroy_pool(pool);
+
+    if(output != stdout)
+        fclose(output);
+
+    if(check_output != stdout)
+        fclose(check_output);
 
     return 0;
 }

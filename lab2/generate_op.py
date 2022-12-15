@@ -12,7 +12,7 @@ check = {}
 def gen_alloc():
     pos = choice(list(all - used))
     num = randint(0,10000)
-    size = randint(0,1024)
+    size = randint(8,1024)
     used.add(pos)
     print(f'alloc {pos} {num} {size}')
     check[pos] = num
@@ -37,8 +37,6 @@ if __name__ == '__main__':
         file = open(argv[2],"w")
 
     op = [gen_alloc,gen_free,gen_check]
-
-    print(n)
 
     for _ in range(n):
         op_num = 0

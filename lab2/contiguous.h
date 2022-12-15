@@ -57,4 +57,6 @@ void p_free(mem_pool *pool,void *);
 
 int print_free_block(FILE *fp,mem_pool *pool);
 
+int get_fragments(mem_pool *pool);
+
 #endif //LAB2_CONTIGUOUS_H
