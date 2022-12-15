@@ -4,3 +4,4 @@ set_up.sh
 **/cmake-build-*
 **/test_file/*
 report/*.txt
+**/.DS_Store

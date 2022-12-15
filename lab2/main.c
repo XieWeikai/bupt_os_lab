@@ -13,6 +13,8 @@
 static mem_pool *pool = NULL;
 
 FILE *output = NULL;
+int ignore = 0 ;
+FILE *check_output = NULL;
 
 clock_t alloc_clocks = 0;
 clock_t free_clocks = 0;
@@ -75,7 +77,7 @@ void init(int type,int strategy){
 }
 
 static void arg_init(int argc,char **argv){
-    char *optstr = "t:s:o:";   // -t type -s strategy -o output_file_for_free_list
+    char *optstr = "It:s:o:c:";   // -t type -s strategy -o output_file_for_free_list
     int ch = 0;
     int type = SYSTEM_ALLOCATION,strategy = FIRST_FIT;
     while((ch = getopt(argc,argv,optstr)) != -1){
@@ -85,6 +87,12 @@ static void arg_init(int argc,char **argv){
                     output = stdout;
                 else
                     output = fopen(optarg,"w");
+                break;
+            case 'c':
+                if(strcmp(optarg,"stdout") == 0)
+                    check_output = stdout;
+                else
+                    check_output = fopen(optarg,"w");
                 break;
             case 't':
                 if(strcmp(optarg,"mine") == 0)
@@ -97,6 +105,9 @@ static void arg_init(int argc,char **argv){
                     strategy = BEST_FIT;
                 else
                     strategy = WORST_FIT;
+                break;
+            case 'I':
+                ignore = 1;
                 break;
             default:
                 break;
@@ -112,10 +123,8 @@ int main(int argc,char **argv) {
 
     int *array[10000];
     int pos,num,n,size;
-    printf("n:");
-    scanf("%d",&n);
     char cmd[50];
-    for(int i = 0;i < n;i++){
+    for(;;){
         printf(">>");
         scanf("%s",cmd);
         if(strcmp(cmd,"alloc") == 0){
@@ -124,12 +133,13 @@ int main(int argc,char **argv) {
             *array[pos] = num;
         }else if(strcmp(cmd,"check") == 0){
             scanf("%d",&pos);
-            printf("num: %d\n",*array[pos]);
-        }else{
+            fprintf(check_output,"%d\n",*array[pos]);
+        }else if(strcmp(cmd,"free") == 0){
             scanf("%d",&pos);
             Free(array[pos]);
-        }
-        if(pool != NULL) {
+        } else
+            break;
+        if(pool != NULL && !ignore) {
             int tmp = print_free_block(output, pool);
             if(tmp > max_fragments)
                 max_fragments = tmp;
@@ -140,5 +150,6 @@ int main(int argc,char **argv) {
 
     if(pool != NULL)
         destroy_pool(pool);
+
     return 0;
 }

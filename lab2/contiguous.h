@@ -53,7 +53,7 @@ void destroy_pool(mem_pool *pool);
 
 void *p_allocate(mem_pool *pool,size_t s);
 
-void *p_free(mem_pool *pool,void *);
+void p_free(mem_pool *pool,void *);
 
 int print_free_block(FILE *fp,mem_pool *pool);
 

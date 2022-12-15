@@ -144,7 +144,7 @@ static block_node *merge(block_node *a,block_node *b){
     return a;
 }
 
-void *p_free(mem_pool *pool,void *data) {
+void p_free(mem_pool *pool,void *data) {
     block *b;
     b = data - sizeof(size_t);
 
@@ -161,7 +161,6 @@ void *p_free(mem_pool *pool,void *data) {
     if(next != pool->free_mem.tail && t->start + t->size == next->start)
         merge(t,next);
 
-    return NULL;
 }
 
 int print_free_block(FILE *fp,mem_pool *pool) {
