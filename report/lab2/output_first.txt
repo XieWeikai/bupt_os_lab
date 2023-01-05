@@ -1,0 +1,5 @@
+allocate times:33504
+free times:33504
+total allocate time: 0.020701 s
+total free time: 0.019568 s
+max fragments:0

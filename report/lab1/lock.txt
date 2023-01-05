@@ -1,0 +1,1088 @@
+writer(1)     start:0.00000    end:0.64212 
+writer(2)     start:0.64206    end:1.06836 
+reader(1)  get:2   start:1.06844   end:2.01683 
+reader(2)  get:2   start:2.01684   end:3.66334 
+reader(3)  get:2   start:3.66340   end:5.62651 
+reader(5)  get:2   start:5.62645   end:6.93463 
+reader(4)  get:2   start:6.93471   end:8.20124 
+reader(6)  get:2   start:8.20134   end:9.20362 
+reader(8)  get:2   start:9.20358   end:9.85769 
+reader(7)  get:2   start:9.85774   end:11.23498 
+writer(1)     start:11.23604    end:12.07538 
+writer(2)     start:12.07525    end:13.22198 
+reader(1)  get:4   start:13.22205   end:13.86718 
+reader(2)  get:4   start:13.86717   end:15.62351 
+reader(3)  get:4   start:15.62359   end:17.48671 
+reader(5)  get:4   start:17.48661   end:18.11499 
+reader(4)  get:4   start:18.11507   end:20.00235 
+reader(6)  get:4   start:20.00236   end:21.13758 
+reader(8)  get:4   start:21.13752   end:21.44677 
+writer(1)     start:21.44764    end:22.44793 
+reader(7)  get:5   start:22.44713   end:22.74363 
+writer(2)     start:22.74445    end:24.13661 
+reader(1)  get:6   start:24.13669   end:26.02099 
+reader(2)  get:6   start:26.02101   end:27.50236 
+reader(5)  get:6   start:27.50225   end:27.74161 
+reader(3)  get:6   start:27.74191   end:28.84642 
+reader(4)  get:6   start:28.84637   end:29.65765 
+reader(8)  get:6   start:29.65746   end:30.15067 
+reader(6)  get:6   start:30.15084   end:31.32857 
+writer(1)     start:31.32936    end:32.87579 
+reader(7)  get:7   start:32.87500   end:33.86237 
+writer(2)     start:33.86323    end:34.66391 
+reader(1)  get:8   start:34.66397   end:36.70623 
+reader(5)  get:8   start:36.70607   end:37.67156 
+reader(3)  get:8   start:37.67181   end:39.20343 
+reader(2)  get:8   start:39.20360   end:39.52591 
+reader(4)  get:8   start:39.52585   end:40.17022 
+reader(8)  get:8   start:40.17003   end:40.37318 
+reader(6)  get:8   start:40.37334   end:41.29443 
+writer(1)     start:41.29515    end:43.17675 
+writer(2)     start:43.17665    end:43.41807 
+reader(7)  get:10   start:43.41752   end:44.02704 
+reader(5)  get:10   start:44.02748   end:44.51867 
+reader(1)  get:10   start:44.51908   end:46.28448 
+reader(3)  get:10   start:46.28445   end:46.89265 
+reader(8)  get:10   start:46.89242   end:48.41470 
+reader(2)  get:10   start:48.41523   end:48.71369 
+reader(4)  get:10   start:48.71365   end:49.99702 
+reader(6)  get:10   start:49.99697   end:51.51140 
+writer(1)     start:51.51213    end:53.46029 
+writer(2)     start:53.46017    end:54.04367 
+reader(7)  get:12   start:54.04309   end:55.28627 
+reader(5)  get:12   start:55.28679   end:56.08416 
+reader(1)  get:12   start:56.08460   end:57.09791 
+reader(3)  get:12   start:57.09790   end:57.92825 
+reader(2)  get:12   start:57.92851   end:59.62198 
+reader(8)  get:12   start:59.62172   end:60.75609 
+reader(4)  get:12   start:60.75633   end:62.13659 
+reader(6)  get:12   start:62.13654   end:62.79779 
+writer(1)     start:62.79859    end:64.46393 
+writer(2)     start:64.46384    end:65.73211 
+reader(7)  get:14   start:65.73153   end:67.41049 
+reader(5)  get:14   start:67.41093   end:68.17532 
+reader(1)  get:14   start:68.17576   end:69.33907 
+reader(3)  get:14   start:69.33894   end:71.36137 
+reader(2)  get:14   start:71.36156   end:71.49776 
+reader(8)  get:14   start:71.49746   end:73.24876 
+reader(4)  get:14   start:73.24901   end:74.78219 
+reader(6)  get:14   start:74.78223   end:75.30748 
+writer(1)     start:75.30820    end:76.38752 
+writer(2)     start:76.38743    end:77.08281 
+reader(7)  get:16   start:77.08223   end:78.32245 
+reader(5)  get:16   start:78.32290   end:80.21118 
+reader(1)  get:16   start:80.21154   end:82.03771 
+reader(3)  get:16   start:82.03768   end:82.61507 
+reader(2)  get:16   start:82.61526   end:83.68995 
+reader(8)  get:16   start:83.68967   end:85.62302 
+reader(4)  get:16   start:85.62327   end:86.29159 
+reader(6)  get:16   start:86.29168   end:87.26083 
+writer(1)     start:87.26153    end:87.49303 
+writer(2)     start:87.49297    end:89.24813 
+reader(7)  get:18   start:89.24754   end:90.09979 
+reader(5)  get:18   start:90.10026   end:91.10458 
+reader(1)  get:18   start:91.10491   end:92.41425 
+reader(3)  get:18   start:92.41422   end:93.40055 
+reader(2)  get:18   start:93.40072   end:95.09916 
+reader(8)  get:18   start:95.09882   end:97.07340 
+reader(4)  get:18   start:97.07365   end:98.59906 
+writer(1)     start:98.59967    end:100.52840 
+reader(6)  get:19   start:100.52791   end:100.63629 
+writer(2)     start:100.63692    end:102.29140 
+reader(5)  get:20   start:102.29105   end:103.89844 
+reader(7)  get:20   start:103.89826   end:104.64580 
+reader(1)  get:20   start:104.64660   end:106.18585 
+reader(3)  get:20   start:106.18584   end:107.10521 
+reader(2)  get:20   start:107.10542   end:109.06999 
+reader(8)  get:20   start:109.06968   end:110.02347 
+reader(4)  get:20   start:110.02379   end:111.90239 
+reader(6)  get:20   start:111.90246   end:112.35963 
+writer(1)     start:112.36035    end:112.66054 
+writer(2)     start:112.66044    end:113.04778 
+reader(7)  get:22   start:113.04724   end:113.38671 
+reader(5)  get:22   start:113.38720   end:114.69432 
+reader(1)  get:22   start:114.69465   end:116.61609 
+reader(3)  get:22   start:116.61613   end:118.64471 
+reader(2)  get:22   start:118.64490   end:119.64110 
+reader(8)  get:22   start:119.64076   end:121.22366 
+writer(1)     start:121.22458    end:121.74779 
+reader(6)  get:23   start:121.74720   end:121.97644 
+reader(4)  get:23   start:121.97746   end:123.27959 
+reader(7)  get:23   start:123.27931   end:123.48258 
+writer(2)     start:123.48339    end:124.90856 
+reader(5)  get:24   start:124.90823   end:126.24661 
+reader(1)  get:24   start:126.24694   end:126.61711 
+reader(3)  get:24   start:126.61702   end:127.47636 
+reader(2)  get:24   start:127.47651   end:127.60364 
+reader(8)  get:24   start:127.60333   end:128.64260 
+writer(1)     start:128.64347    end:129.95092 
+reader(6)  get:25   start:129.95038   end:131.77671 
+reader(4)  get:25   start:131.77689   end:132.61413 
+reader(7)  get:25   start:132.61390   end:134.24217 
+writer(2)     start:134.24304    end:135.03355 
+reader(5)  get:26   start:135.03320   end:135.16759 
+reader(1)  get:26   start:135.16792   end:136.40608 
+reader(3)  get:26   start:136.40602   end:138.15325 
+reader(2)  get:26   start:138.15342   end:138.72973 
+reader(8)  get:26   start:138.72947   end:139.79184 
+writer(1)     start:139.79276    end:140.15611 
+reader(6)  get:27   start:140.15560   end:141.82978 
+reader(4)  get:27   start:141.82996   end:142.39530 
+reader(5)  get:27   start:142.39530   end:142.61251 
+reader(7)  get:27   start:142.61229   end:143.64747 
+writer(2)     start:143.64825    end:145.42833 
+reader(1)  get:28   start:145.42828   end:145.84448 
+reader(3)  get:28   start:145.84440   end:146.22762 
+reader(2)  get:28   start:146.22769   end:147.38094 
+reader(8)  get:28   start:147.38064   end:147.72283 
+writer(1)     start:147.72368    end:148.64294 
+reader(6)  get:29   start:148.64243   end:150.27574 
+reader(4)  get:29   start:150.27591   end:151.83446 
+reader(5)  get:29   start:151.83447   end:153.78983 
+reader(7)  get:29   start:153.78958   end:154.37593 
+writer(2)     start:154.37676    end:155.32502 
+reader(3)  get:30   start:155.32494   end:155.55531 
+reader(1)  get:30   start:155.55559   end:156.49478 
+reader(8)  get:30   start:156.49429   end:156.90465 
+writer(1)     start:156.90559    end:158.77580 
+reader(2)  get:31   start:158.77552   end:159.55864 
+reader(6)  get:31   start:159.55845   end:160.60260 
+reader(4)  get:31   start:160.60274   end:161.11509 
+reader(7)  get:31   start:161.11483   end:162.82432 
+reader(5)  get:31   start:162.82481   end:163.51931 
+reader(3)  get:31   start:163.51952   end:165.50980 
+writer(2)     start:165.51016    end:167.29435 
+reader(1)  get:32   start:167.29431   end:168.32170 
+reader(8)  get:32   start:168.32122   end:170.13761 
+writer(1)     start:170.13853    end:170.86972 
+reader(2)  get:33   start:170.86937   end:172.12472 
+reader(6)  get:33   start:172.12459   end:172.73188 
+reader(4)  get:33   start:172.73211   end:174.28930 
+reader(7)  get:33   start:174.28904   end:176.26935 
+reader(5)  get:33   start:176.26983   end:177.34319 
+reader(3)  get:33   start:177.34360   end:178.65086 
+writer(2)     start:178.65123    end:178.96453 
+reader(1)  get:34   start:178.96449   end:179.27665 
+reader(8)  get:34   start:179.27617   end:179.67247 
+writer(1)     start:179.67334    end:180.98252 
+reader(2)  get:35   start:180.98216   end:182.31136 
+reader(6)  get:35   start:182.31120   end:182.71340 
+reader(4)  get:35   start:182.71364   end:184.44991 
+reader(5)  get:35   start:184.44992   end:186.16147 
+reader(7)  get:35   start:186.16128   end:187.82956 
+reader(1)  get:35   start:187.83042   end:189.04093 
+reader(3)  get:35   start:189.04090   end:189.97602 
+writer(2)     start:189.97640    end:190.08262 
+reader(8)  get:36   start:190.08207   end:191.81733 
+writer(1)     start:191.81818    end:193.53440 
+reader(6)  get:37   start:193.53383   end:194.72696 
+reader(2)  get:37   start:194.72731   end:196.20575 
+reader(4)  get:37   start:196.20565   end:198.00301 
+reader(5)  get:37   start:198.00302   end:199.59143 
+reader(7)  get:37   start:199.59119   end:200.66043 
+reader(1)  get:37   start:200.66118   end:201.64335 
+writer(2)     start:201.64344    end:203.53881 
+reader(3)  get:38   start:203.53870   end:203.86298 
+writer(1)     start:203.86350    end:205.93571 
+reader(8)  get:39   start:205.93504   end:206.37328 
+reader(6)  get:39   start:206.37356   end:207.66584 
+reader(2)  get:39   start:207.66622   end:209.58561 
+reader(4)  get:39   start:209.58557   end:211.42179 
+reader(7)  get:39   start:211.42154   end:213.39773 
+reader(5)  get:39   start:213.39818   end:214.76643 
+reader(1)  get:39   start:214.76677   end:216.40199 
+writer(2)     start:216.40209    end:218.17837 
+reader(3)  get:40   start:218.17827   end:219.50159 
+writer(1)     start:219.50215    end:219.66156 
+reader(8)  get:41   start:219.66081   end:220.68321 
+reader(6)  get:41   start:220.68347   end:221.74771 
+reader(2)  get:41   start:221.74813   end:222.18857 
+reader(4)  get:41   start:222.18842   end:222.39187 
+reader(7)  get:41   start:222.39182   end:223.79502 
+reader(5)  get:41   start:223.79549   end:225.40966 
+reader(1)  get:41   start:225.40999   end:226.23721 
+writer(2)     start:226.23730    end:226.53968 
+writer(1)     start:226.54003    end:226.92922 
+reader(3)  get:43   start:226.92891   end:227.39923 
+reader(8)  get:43   start:227.39899   end:228.36436 
+reader(2)  get:43   start:228.36495   end:229.67825 
+reader(4)  get:43   start:229.67810   end:230.89173 
+reader(6)  get:43   start:230.89181   end:231.41706 
+reader(7)  get:43   start:231.41692   end:233.33641 
+reader(1)  get:43   start:233.33707   end:233.59754 
+reader(5)  get:43   start:233.59734   end:234.32454 
+writer(2)     start:234.32494    end:236.08432 
+reader(3)  get:44   start:236.08425   end:237.62381 
+writer(1)     start:237.62441    end:238.37078 
+reader(8)  get:45   start:238.37015   end:239.42062 
+reader(2)  get:45   start:239.42118   end:241.01747 
+reader(6)  get:45   start:241.01732   end:243.09756 
+reader(4)  get:45   start:243.09773   end:243.41992 
+reader(7)  get:45   start:243.41968   end:244.26995 
+reader(1)  get:45   start:244.27061   end:246.36122 
+reader(5)  get:45   start:246.36106   end:247.80627 
+writer(2)     start:247.80668    end:249.03491 
+writer(1)     start:249.03514    end:250.78449 
+reader(3)  get:47   start:250.78417   end:251.23360 
+reader(8)  get:47   start:251.23343   end:252.48574 
+reader(2)  get:47   start:252.48629   end:253.90747 
+reader(4)  get:47   start:253.90739   end:255.19773 
+reader(6)  get:47   start:255.19784   end:255.60126 
+reader(7)  get:47   start:255.60114   end:255.99955 
+reader(1)  get:47   start:256.00022   end:256.58450 
+reader(5)  get:47   start:256.58429   end:257.93347 
+writer(2)     start:257.93399    end:258.51714 
+writer(1)     start:258.51738    end:259.41001 
+reader(3)  get:49   start:259.40972   end:259.53697 
+reader(8)  get:49   start:259.53674   end:260.04918 
+reader(2)  get:49   start:260.04962   end:260.41981 
+reader(6)  get:49   start:260.41966   end:261.29597 
+reader(4)  get:49   start:261.29620   end:262.72433 
+reader(7)  get:49   start:262.72413   end:262.88963 
+reader(1)  get:49   start:262.89031   end:264.22455 
+writer(2)     start:264.22472    end:265.62579 
+reader(5)  get:50   start:265.62553   end:266.27927 
+writer(1)     start:266.27991    end:267.68614 
+reader(8)  get:51   start:267.68547   end:268.01877 
+reader(3)  get:51   start:268.01933   end:269.03970 
+reader(2)  get:51   start:269.03990   end:269.54911 
+reader(6)  get:51   start:269.54888   end:271.46240 
+reader(7)  get:51   start:271.46227   end:272.90749 
+reader(4)  get:51   start:272.90796   end:274.16327 
+reader(1)  get:51   start:274.16366   end:275.52476 
+writer(2)     start:275.52495    end:276.57119 
+reader(5)  get:52   start:276.57088   end:278.66620 
+writer(1)     start:278.66693    end:280.36818 
+reader(8)  get:53   start:280.36748   end:281.72912 
+reader(3)  get:53   start:281.72958   end:283.49993 
+reader(2)  get:53   start:283.50014   end:284.03955 
+reader(6)  get:53   start:284.03943   end:284.28790 
+reader(7)  get:53   start:284.28775   end:285.40624 
+reader(4)  get:53   start:285.40682   end:286.47154 
+reader(1)  get:53   start:286.47199   end:288.30215 
+writer(2)     start:288.30228    end:289.48566 
+reader(5)  get:54   start:289.48544   end:290.16964 
+writer(1)     start:290.17035    end:290.85938 
+reader(8)  get:55   start:290.85873   end:291.57348 
+reader(6)  get:55   start:291.57373   end:292.53224 
+reader(2)  get:55   start:292.53263   end:294.61393 
+reader(3)  get:55   start:294.61400   end:294.79058 
+reader(7)  get:55   start:294.79020   end:295.52965 
+reader(4)  get:55   start:295.53017   end:297.59886 
+writer(2)     start:297.59934    end:299.04203 
+reader(1)  get:56   start:299.04207   end:300.42240 
+reader(5)  get:56   start:300.42218   end:300.68686 
+writer(1)     start:300.68755    end:302.67719 
+reader(8)  get:57   start:302.67654   end:304.33085 
+reader(6)  get:57   start:304.33111   end:305.97834 
+reader(2)  get:57   start:305.97876   end:307.48627 
+reader(3)  get:57   start:307.48634   end:308.56481 
+reader(7)  get:57   start:308.56449   end:309.74688 
+reader(4)  get:57   start:309.74727   end:310.97044 
+writer(2)     start:310.97089    end:311.49341 
+reader(5)  get:58   start:311.49319   end:312.27742 
+reader(1)  get:58   start:312.27786   end:313.18742 
+writer(1)     start:313.18773    end:314.77931 
+reader(8)  get:59   start:314.77863   end:316.87418 
+reader(6)  get:59   start:316.87443   end:317.43730 
+reader(2)  get:59   start:317.43778   end:318.19040 
+reader(3)  get:59   start:318.19047   end:318.52256 
+reader(7)  get:59   start:318.52223   end:318.90574 
+reader(4)  get:59   start:318.90621   end:320.56163 
+writer(2)     start:320.56213    end:320.74868 
+reader(1)  get:60   start:320.74876   end:321.52500 
+reader(5)  get:60   start:321.52484   end:322.47072 
+writer(1)     start:322.47143    end:323.17001 
+reader(8)  get:61   start:323.16937   end:324.04686 
+reader(6)  get:61   start:324.04711   end:324.88474 
+reader(3)  get:61   start:324.88507   end:326.06535 
+reader(2)  get:61   start:326.06544   end:326.88162 
+reader(7)  get:61   start:326.88124   end:328.27859 
+writer(2)     start:328.27944    end:329.71569 
+reader(4)  get:62   start:329.71548   end:330.59513 
+reader(1)  get:62   start:330.59552   end:330.87998 
+reader(5)  get:62   start:330.87980   end:332.07615 
+writer(1)     start:332.07676    end:332.42316 
+reader(6)  get:63   start:332.42262   end:334.17450 
+reader(8)  get:63   start:334.17455   end:335.04806 
+reader(3)  get:63   start:335.04853   end:336.72263 
+reader(2)  get:63   start:336.72284   end:337.16693 
+reader(7)  get:63   start:337.16655   end:337.92800 
+writer(2)     start:337.92884    end:339.48954 
+reader(1)  get:64   start:339.48959   end:340.16302 
+reader(4)  get:64   start:340.16289   end:342.01546 
+writer(1)     start:342.01618    end:342.40685 
+reader(5)  get:65   start:342.40638   end:344.04758 
+reader(6)  get:65   start:344.04767   end:345.93838 
+reader(8)  get:65   start:345.93833   end:348.03101 
+reader(3)  get:65   start:348.03151   end:349.92082 
+reader(7)  get:65   start:349.92058   end:352.02096 
+reader(2)  get:65   start:352.02160   end:353.82953 
+writer(2)     start:353.82981    end:355.73329 
+reader(1)  get:66   start:355.73334   end:356.55153 
+writer(1)     start:356.55195    end:357.30315 
+reader(4)  get:67   start:357.30260   end:358.11795 
+reader(5)  get:67   start:358.11806   end:360.04259 
+reader(6)  get:67   start:360.04264   end:361.51917 
+reader(8)  get:67   start:361.51914   end:361.98979 
+reader(3)  get:67   start:361.99029   end:362.68613 
+reader(7)  get:67   start:362.68583   end:363.61936 
+reader(2)  get:67   start:363.62004   end:363.86733 
+writer(2)     start:363.86761    end:365.55421 
+reader(1)  get:68   start:365.55427   end:367.57688 
+reader(4)  get:68   start:367.57669   end:368.18118 
+writer(1)     start:368.18178    end:369.59223 
+reader(5)  get:69   start:369.59175   end:371.40013 
+reader(6)  get:69   start:371.40018   end:372.92254 
+reader(3)  get:69   start:372.92286   end:374.95499 
+reader(8)  get:69   start:374.95475   end:375.40629 
+reader(7)  get:69   start:375.40631   end:377.49389 
+reader(2)  get:69   start:377.49455   end:378.28721 
+writer(2)     start:378.28747    end:378.82910 
+reader(1)  get:70   start:378.82918   end:379.57959 
+writer(1)     start:379.58001    end:381.04708 
+reader(4)  get:71   start:381.04655   end:381.19425 
+reader(5)  get:71   start:381.19441   end:382.53851 
+reader(6)  get:71   start:382.53854   end:384.32676 
+reader(3)  get:71   start:384.32712   end:386.11570 
+reader(8)  get:71   start:386.11552   end:388.17970 
+reader(7)  get:71   start:388.17972   end:389.15496 
+reader(1)  get:71   start:389.15575   end:391.06605 
+reader(2)  get:71   start:391.06611   end:393.01381 
+writer(2)     start:393.01409    end:394.33981 
+writer(1)     start:394.34017    end:395.36533 
+reader(5)  get:73   start:395.36487   end:396.94027 
+reader(4)  get:73   start:396.94041   end:397.68165 
+reader(6)  get:73   start:397.68170   end:398.05994 
+reader(3)  get:73   start:398.06029   end:399.62657 
+reader(8)  get:73   start:399.62638   end:400.73483 
+reader(7)  get:73   start:400.73486   end:402.12311 
+reader(1)  get:73   start:402.12397   end:402.37012 
+reader(2)  get:73   start:402.37004   end:403.27730 
+writer(2)     start:403.27758    end:404.29592 
+writer(1)     start:404.29628    end:405.39588 
+reader(5)  get:75   start:405.39544   end:405.73864 
+reader(6)  get:75   start:405.73874   end:407.55006 
+reader(4)  get:75   start:407.55029   end:408.10548 
+reader(3)  get:75   start:408.10571   end:409.04606 
+reader(8)  get:75   start:409.04585   end:410.03857 
+reader(1)  get:75   start:410.03924   end:410.95265 
+reader(7)  get:75   start:410.95218   end:411.28542 
+reader(2)  get:75   start:411.28610   end:413.03344 
+writer(2)     start:413.03375    end:414.78503 
+writer(1)     start:414.78547    end:415.43993 
+reader(5)  get:77   start:415.43940   end:416.59865 
+reader(6)  get:77   start:416.59871   end:417.52692 
+reader(4)  get:77   start:417.52712   end:419.55748 
+reader(3)  get:77   start:419.55769   end:419.80978 
+reader(8)  get:77   start:419.80954   end:420.03814 
+reader(7)  get:77   start:420.03816   end:421.42338 
+reader(1)  get:77   start:421.42417   end:422.10566 
+reader(2)  get:77   start:422.10558   end:423.74601 
+writer(1)     start:423.74643    end:423.95661 
+writer(2)     start:423.95655    end:425.88907 
+reader(6)  get:79   start:425.88876   end:427.24822 
+reader(5)  get:79   start:427.24848   end:427.83202 
+reader(3)  get:79   start:427.83220   end:429.58885 
+reader(8)  get:79   start:429.58862   end:431.24981 
+reader(4)  get:79   start:431.25007   end:432.14950 
+reader(1)  get:79   start:432.14991   end:433.77246 
+reader(7)  get:79   start:433.77193   end:435.38551 
+reader(2)  get:79   start:435.38618   end:436.10692 
+writer(1)     start:436.10754    end:437.74872 
+writer(2)     start:437.74854    end:439.69573 
+reader(6)  get:81   start:439.69545   end:441.27672 
+reader(5)  get:81   start:441.27690   end:442.53320 
+reader(3)  get:81   start:442.53349   end:444.31879 
+reader(8)  get:81   start:444.31860   end:445.07497 
+reader(4)  get:81   start:445.07523   end:446.92135 
+reader(1)  get:81   start:446.92170   end:448.93289 
+reader(7)  get:81   start:448.93239   end:450.03762 
+reader(2)  get:81   start:450.03827   end:450.19296 
+writer(1)     start:450.19350    end:450.81718 
+writer(2)     start:450.81701    end:452.12576 
+reader(6)  get:83   start:452.12537   end:453.06967 
+reader(5)  get:83   start:453.06988   end:453.90708 
+reader(3)  get:83   start:453.90726   end:454.64358 
+reader(8)  get:83   start:454.64335   end:455.65667 
+reader(4)  get:83   start:455.65692   end:457.44548 
+reader(1)  get:83   start:457.44589   end:458.50654 
+reader(7)  get:83   start:458.50599   end:459.33134 
+reader(2)  get:83   start:459.33203   end:460.21967 
+writer(1)     start:460.22020    end:462.24577 
+reader(6)  get:84   start:462.24529   end:463.94463 
+writer(2)     start:463.94521    end:465.08985 
+reader(5)  get:85   start:465.08959   end:465.42237 
+reader(3)  get:85   start:465.42255   end:467.42584 
+reader(8)  get:85   start:467.42551   end:467.60204 
+reader(4)  get:85   start:467.60230   end:468.71768 
+reader(1)  get:85   start:468.71810   end:469.67973 
+reader(2)  get:85   start:469.67974   end:471.35021 
+reader(7)  get:85   start:471.34977   end:473.22301 
+writer(1)     start:473.22407    end:473.83737 
+reader(6)  get:86   start:473.83684   end:474.99115 
+writer(2)     start:474.99173    end:475.65096 
+reader(5)  get:87   start:475.65073   end:476.23299 
+reader(3)  get:87   start:476.23316   end:478.02079 
+reader(8)  get:87   start:478.02053   end:479.48978 
+reader(4)  get:87   start:479.49003   end:480.97515 
+reader(1)  get:87   start:480.97555   end:483.02873 
+reader(2)  get:87   start:483.02871   end:483.16238 
+writer(1)     start:483.16280    end:483.42345 
+reader(7)  get:88   start:483.42269   end:483.55045 
+writer(2)     start:483.55131    end:484.68372 
+reader(6)  get:89   start:484.68351   end:485.41792 
+reader(5)  get:89   start:485.41801   end:485.97630 
+reader(3)  get:89   start:485.97648   end:487.12462 
+reader(8)  get:89   start:487.12442   end:488.74885 
+reader(4)  get:89   start:488.74909   end:488.87961 
+reader(2)  get:89   start:488.87985   end:489.85550 
+reader(1)  get:89   start:489.85575   end:490.10303 
+writer(1)     start:490.10334    end:491.47325 
+reader(7)  get:90   start:491.47249   end:492.87224 
+writer(2)     start:492.87310    end:493.08931 
+reader(5)  get:91   start:493.08910   end:493.90876 
+reader(6)  get:91   start:493.90874   end:494.67632 
+reader(3)  get:91   start:494.67674   end:495.03015 
+reader(4)  get:91   start:495.03017   end:496.48985 
+reader(8)  get:91   start:496.48974   end:496.76723 
+reader(2)  get:91   start:496.76783   end:497.30527 
+reader(1)  get:91   start:497.30548   end:499.24590 
+writer(1)     start:499.24621    end:499.91861 
+reader(7)  get:92   start:499.91777   end:500.25828 
+writer(2)     start:500.25912    end:500.36475 
+reader(5)  get:93   start:500.36448   end:502.25253 
+reader(6)  get:93   start:502.25261   end:504.32790 
+reader(3)  get:93   start:504.32825   end:505.33876 
+reader(8)  get:93   start:505.33855   end:506.32102 
+reader(2)  get:93   start:506.32159   end:507.41587 
+reader(4)  get:93   start:507.41581   end:507.52013 
+reader(1)  get:93   start:507.52056   end:508.24413 
+writer(1)     start:508.24444    end:509.92399 
+reader(7)  get:94   start:509.92321   end:510.63690 
+writer(2)     start:510.63773    end:511.00939 
+reader(5)  get:95   start:511.00916   end:511.99354 
+reader(6)  get:95   start:511.99363   end:512.80978 
+reader(3)  get:95   start:512.81006   end:513.62849 
+reader(8)  get:95   start:513.62829   end:514.89778 
+reader(2)  get:95   start:514.89834   end:515.49608 
+reader(4)  get:95   start:515.49592   end:516.38257 
+reader(1)  get:95   start:516.38306   end:517.65237 
+writer(1)     start:517.65268    end:519.08509 
+reader(7)  get:96   start:519.08439   end:520.30192 
+writer(2)     start:520.30277    end:522.24707 
+reader(5)  get:97   start:522.24673   end:522.67251 
+reader(6)  get:97   start:522.67257   end:523.26809 
+reader(3)  get:97   start:523.26840   end:523.44549 
+reader(8)  get:97   start:523.44529   end:524.48458 
+reader(2)  get:97   start:524.48507   end:524.71060 
+reader(1)  get:97   start:524.71097   end:525.57860 
+reader(4)  get:97   start:525.57847   end:526.71059 
+writer(1)     start:526.71131    end:528.10284 
+reader(7)  get:98   start:528.10195   end:528.35817 
+writer(2)     start:528.35891    end:528.72521 
+reader(6)  get:99   start:528.72490   end:530.01516 
+reader(5)  get:99   start:530.01537   end:531.72445 
+reader(8)  get:99   start:531.72436   end:533.19499 
+reader(3)  get:99   start:533.19547   end:535.29077 
+reader(2)  get:99   start:535.29097   end:535.65860 
+reader(1)  get:99   start:535.65892   end:537.47115 
+reader(4)  get:99   start:537.47100   end:538.37259 
+reader(7)  get:99   start:538.37237   end:539.57106 
+writer(2)     start:539.57179    end:541.51110 
+writer(1)     start:541.51133    end:542.29380 
+reader(6)  get:101   start:542.29335   end:542.75369 
+reader(5)  get:101   start:542.75390   end:543.38468 
+reader(8)  get:101   start:543.38458   end:543.63113 
+reader(3)  get:101   start:543.63163   end:544.43143 
+reader(2)  get:101   start:544.43162   end:546.36892 
+reader(1)  get:101   start:546.36924   end:546.53962 
+reader(4)  get:101   start:546.53949   end:548.21519 
+reader(7)  get:101   start:548.21495   end:549.25839 
+writer(2)     start:549.25913    end:551.09358 
+reader(6)  get:102   start:551.09331   end:551.73760 
+writer(1)     start:551.73839    end:553.72918 
+reader(5)  get:103   start:553.72875   end:553.97919 
+reader(8)  get:103   start:553.97913   end:554.09981 
+reader(3)  get:103   start:554.10027   end:555.32551 
+reader(2)  get:103   start:555.32570   end:556.26718 
+reader(1)  get:103   start:556.26741   end:557.74690 
+reader(4)  get:103   start:557.74665   end:558.93203 
+reader(7)  get:103   start:558.93183   end:559.18208 
+reader(6)  get:103   start:559.18250   end:560.12683 
+writer(2)     start:560.12736    end:561.31756 
+writer(1)     start:561.31788    end:563.23353 
+reader(5)  get:105   start:563.23305   end:565.04139 
+reader(8)  get:105   start:565.04133   end:566.65384 
+reader(3)  get:105   start:566.65430   end:568.64452 
+reader(2)  get:105   start:568.64470   end:569.88895 
+reader(1)  get:105   start:569.88918   end:570.79267 
+reader(4)  get:105   start:570.79252   end:571.13877 
+reader(7)  get:105   start:571.13857   end:572.96300 
+reader(6)  get:105   start:572.96341   end:574.82255 
+writer(2)     start:574.82313    end:576.16272 
+writer(1)     start:576.16305    end:576.47642 
+reader(5)  get:107   start:576.47601   end:578.37745 
+reader(8)  get:107   start:578.37737   end:580.11951 
+reader(3)  get:107   start:580.11997   end:580.30535 
+reader(2)  get:107   start:580.30556   end:580.76291 
+reader(1)  get:107   start:580.76317   end:582.02967 
+reader(4)  get:107   start:582.02949   end:583.13672 
+reader(7)  get:107   start:583.13649   end:584.35415 
+reader(6)  get:107   start:584.35446   end:585.09187 
+writer(1)     start:585.09255    end:586.51422 
+writer(2)     start:586.51411    end:587.16789 
+reader(5)  get:109   start:587.16766   end:587.64054 
+reader(3)  get:109   start:587.64071   end:588.81822 
+reader(2)  get:109   start:588.81831   end:589.54161 
+reader(8)  get:109   start:589.54130   end:589.69950 
+reader(4)  get:109   start:589.69987   end:590.79307 
+reader(1)  get:109   start:590.79352   end:592.48874 
+reader(7)  get:109   start:592.48813   end:594.15758 
+reader(6)  get:109   start:594.15789   end:596.11772 
+writer(2)     start:596.11826    end:597.49695 
+reader(5)  get:110   start:597.49668   end:599.09794 
+writer(1)     start:599.09866    end:601.14343 
+reader(2)  get:111   start:601.14320   end:602.11778 
+reader(3)  get:111   start:602.11789   end:602.80125 
+reader(4)  get:111   start:602.80125   end:603.63841 
+reader(8)  get:111   start:603.63830   end:604.58874 
+reader(1)  get:111   start:604.58928   end:604.71549 
+reader(7)  get:111   start:604.71488   end:606.46206 
+reader(6)  get:111   start:606.46236   end:606.99395 
+writer(2)     start:606.99454    end:608.14897 
+reader(5)  get:112   start:608.14870   end:609.49607 
+writer(1)     start:609.49677    end:610.35827 
+reader(2)  get:113   start:610.35802   end:611.29945 
+reader(3)  get:113   start:611.29950   end:613.03386 
+reader(1)  get:113   start:613.03418   end:613.78950 
+reader(4)  get:113   start:613.78937   end:613.91573 
+reader(8)  get:113   start:613.91564   end:614.92838 
+reader(7)  get:113   start:614.92828   end:615.69164 
+writer(2)     start:615.69238    end:615.93561 
+reader(6)  get:114   start:615.93527   end:616.44798 
+reader(5)  get:114   start:616.44820   end:617.25448 
+writer(1)     start:617.25510    end:617.52556 
+reader(2)  get:115   start:617.52539   end:619.22388 
+reader(3)  get:115   start:619.22400   end:620.27453 
+reader(4)  get:115   start:620.27449   end:621.13364 
+reader(1)  get:115   start:621.13402   end:621.30921 
+reader(8)  get:115   start:621.30873   end:621.45789 
+reader(7)  get:115   start:621.45779   end:621.95999 
+writer(2)     start:621.96073    end:622.34211 
+reader(6)  get:116   start:622.34171   end:624.25725 
+reader(5)  get:116   start:624.25734   end:624.41858 
+writer(1)     start:624.41931    end:625.61189 
+reader(3)  get:117   start:625.61148   end:627.52270 
+reader(2)  get:117   start:627.52290   end:629.49711 
+reader(4)  get:117   start:629.49696   end:629.71170 
+reader(1)  get:117   start:629.71201   end:630.20370 
+reader(7)  get:117   start:630.20310   end:630.96478 
+reader(8)  get:117   start:630.96504   end:632.61712 
+writer(2)     start:632.61772    end:634.21099 
+reader(6)  get:118   start:634.21077   end:636.15592 
+reader(5)  get:118   start:636.15601   end:636.31853 
+writer(1)     start:636.31926    end:638.23245 
+reader(3)  get:119   start:638.23205   end:638.64548 
+reader(4)  get:119   start:638.64549   end:640.41901 
+reader(2)  get:119   start:640.41922   end:641.88501 
+reader(1)  get:119   start:641.88530   end:643.07388 
+reader(7)  get:119   start:643.07330   end:644.50144 
+reader(8)  get:119   start:644.50167   end:646.55791 
+writer(2)     start:646.55852    end:647.70702 
+reader(6)  get:120   start:647.70663   end:648.01391 
+reader(5)  get:120   start:648.01399   end:649.78622 
+writer(1)     start:649.78691    end:650.48539 
+reader(3)  get:121   start:650.48499   end:651.30254 
+reader(4)  get:121   start:651.30257   end:651.55096 
+reader(2)  get:121   start:651.55118   end:652.80080 
+reader(1)  get:121   start:652.80102   end:654.47513 
+reader(7)  get:121   start:654.47460   end:656.48810 
+reader(8)  get:121   start:656.48838   end:657.46987 
+reader(6)  get:121   start:657.47017   end:658.28563 
+writer(2)     start:658.28617    end:660.32163 
+writer(1)     start:660.32197    end:662.01931 
+reader(5)  get:123   start:662.01887   end:663.18130 
+reader(3)  get:123   start:663.18161   end:664.03990 
+reader(4)  get:123   start:664.03991   end:665.31848 
+reader(2)  get:123   start:665.31870   end:665.82239 
+reader(1)  get:123   start:665.82259   end:666.00382 
+reader(7)  get:123   start:666.00330   end:667.64353 
+reader(6)  get:123   start:667.64390   end:669.71016 
+reader(8)  get:123   start:669.71013   end:671.62468 
+writer(2)     start:671.62533    end:672.86297 
+writer(1)     start:672.86331    end:674.62808 
+reader(5)  get:125   start:674.62760   end:675.35516 
+reader(3)  get:125   start:675.35544   end:677.10971 
+reader(4)  get:125   start:677.10971   end:678.12529 
+reader(2)  get:125   start:678.12551   end:679.40081 
+reader(1)  get:125   start:679.40102   end:679.50582 
+reader(7)  get:125   start:679.50523   end:681.47637 
+reader(6)  get:125   start:681.47680   end:682.82990 
+reader(8)  get:125   start:682.82988   end:684.12821 
+writer(2)     start:684.12882    end:685.33407 
+writer(1)     start:685.33447    end:686.80679 
+reader(5)  get:127   start:686.80625   end:688.13963 
+reader(3)  get:127   start:688.13981   end:689.04497 
+reader(4)  get:127   start:689.04497   end:689.42745 
+reader(2)  get:127   start:689.42765   end:689.95455 
+reader(1)  get:127   start:689.95481   end:690.54204 
+reader(7)  get:127   start:690.54154   end:692.33015 
+reader(6)  get:127   start:692.33057   end:693.21019 
+reader(8)  get:127   start:693.21016   end:695.04694 
+writer(2)     start:695.04755    end:696.41526 
+writer(1)     start:696.41557    end:697.42632 
+reader(5)  get:129   start:697.42586   end:698.76401 
+reader(3)  get:129   start:698.76419   end:700.75953 
+reader(1)  get:129   start:700.75981   end:701.01600 
+reader(4)  get:129   start:701.01586   end:701.15114 
+reader(2)  get:129   start:701.15136   end:701.50068 
+reader(7)  get:129   start:701.50025   end:701.60456 
+reader(6)  get:129   start:701.60496   end:703.58237 
+reader(8)  get:129   start:703.58237   end:705.03471 
+writer(2)     start:705.03543    end:707.01669 
+writer(1)     start:707.01693    end:707.80950 
+reader(5)  get:131   start:707.80903   end:708.89028 
+reader(3)  get:131   start:708.89046   end:710.02902 
+reader(1)  get:131   start:710.02921   end:711.85059 
+reader(4)  get:131   start:711.85045   end:713.40507 
+reader(7)  get:131   start:713.40477   end:714.74523 
+reader(2)  get:131   start:714.74591   end:716.66105 
+reader(6)  get:131   start:716.66090   end:718.72846 
+reader(8)  get:131   start:718.72843   end:718.91176 
+writer(1)     start:718.91266    end:720.92835 
+writer(2)     start:720.92816    end:721.52668 
+reader(5)  get:133   start:721.52644   end:722.70980 
+reader(3)  get:133   start:722.70997   end:723.57140 
+reader(1)  get:133   start:723.57158   end:724.98303 
+reader(4)  get:133   start:724.98287   end:726.87315 
+reader(2)  get:133   start:726.87346   end:727.97867 
+reader(7)  get:133   start:727.97828   end:729.19466 
+reader(6)  get:133   start:729.19506   end:730.15667 
+reader(8)  get:133   start:730.15665   end:732.00321 
+writer(1)     start:732.00422    end:732.58872 
+reader(5)  get:134   start:732.58824   end:733.37106 
+writer(2)     start:733.37164    end:734.22384 
+reader(3)  get:135   start:734.22373   end:735.64091 
+reader(1)  get:135   start:735.64110   end:737.06151 
+reader(4)  get:135   start:737.06144   end:739.11780 
+reader(2)  get:135   start:739.11810   end:739.85085 
+reader(6)  get:135   start:739.85073   end:740.46336 
+reader(7)  get:135   start:740.46329   end:741.51881 
+reader(8)  get:135   start:741.51906   end:743.40841 
+writer(1)     start:743.40933    end:744.00987 
+writer(2)     start:744.00969    end:744.68109 
+reader(5)  get:137   start:744.68086   end:744.84027 
+reader(3)  get:137   start:744.84045   end:745.98777 
+reader(1)  get:137   start:745.98796   end:747.48767 
+reader(4)  get:137   start:747.48754   end:748.20328 
+reader(2)  get:137   start:748.20357   end:749.85189 
+reader(6)  get:137   start:749.85179   end:751.11637 
+reader(7)  get:137   start:751.11624   end:752.12360 
+reader(8)  get:137   start:752.12387   end:752.79947 
+writer(1)     start:752.80029    end:753.89471 
+writer(2)     start:753.89453    end:754.56968 
+reader(3)  get:139   start:754.56958   end:755.21003 
+reader(5)  get:139   start:755.20992   end:756.20929 
+reader(1)  get:139   start:756.20963   end:757.78474 
+reader(4)  get:139   start:757.78451   end:758.31567 
+reader(2)  get:139   start:758.31600   end:758.68184 
+reader(6)  get:139   start:758.68172   end:759.81824 
+reader(7)  get:139   start:759.81812   end:760.16535 
+writer(1)     start:760.16636    end:760.62462 
+reader(8)  get:140   start:760.62397   end:761.15628 
+writer(2)     start:761.15699    end:761.89931 
+reader(3)  get:141   start:761.89923   end:763.82635 
+reader(5)  get:141   start:763.82622   end:765.76365 
+reader(1)  get:141   start:765.76398   end:767.70875 
+reader(2)  get:141   start:767.70868   end:767.88309 
+reader(7)  get:141   start:767.88272   end:768.48081 
+reader(4)  get:141   start:768.48128   end:768.60257 
+reader(6)  get:141   start:768.60264   end:769.99609 
+writer(1)     start:769.99686    end:771.30109 
+reader(8)  get:142   start:771.30043   end:772.56473 
+writer(2)     start:772.56543    end:772.96358 
+reader(3)  get:143   start:772.96342   end:774.04975 
+reader(5)  get:143   start:774.04964   end:775.01763 
+reader(1)  get:143   start:775.01798   end:776.09247 
+reader(2)  get:143   start:776.09249   end:777.39383 
+reader(7)  get:143   start:777.39344   end:779.24877 
+reader(4)  get:143   start:779.24922   end:780.29161 
+reader(6)  get:143   start:780.29170   end:781.59943 
+writer(1)     start:781.60022    end:782.03533 
+writer(2)     start:782.03514    end:782.88167 
+reader(8)  get:145   start:782.88122   end:783.54056 
+reader(3)  get:145   start:783.54105   end:785.35052 
+reader(5)  get:145   start:785.35052   end:786.40412 
+reader(1)  get:145   start:786.40460   end:787.56200 
+reader(2)  get:145   start:787.56204   end:788.98822 
+reader(7)  get:145   start:788.98783   end:790.43704 
+reader(4)  get:145   start:790.43752   end:791.30174 
+writer(1)     start:791.30243    end:791.91803 
+reader(6)  get:146   start:791.91755   end:793.11698 
+writer(2)     start:793.11757    end:793.63100 
+reader(8)  get:147   start:793.63056   end:794.18167 
+reader(3)  get:147   start:794.18204   end:795.53976 
+reader(5)  get:147   start:795.53972   end:796.50298 
+reader(1)  get:147   start:796.50339   end:797.88998 
+reader(2)  get:147   start:797.89002   end:798.61819 
+reader(7)  get:147   start:798.61780   end:799.62654 
+reader(4)  get:147   start:799.62694   end:800.11716 
+writer(1)     start:800.11783    end:801.10007 
+reader(6)  get:148   start:801.09957   end:801.93206 
+writer(2)     start:801.93264    end:803.09024 
+reader(8)  get:149   start:803.08983   end:804.90708 
+reader(3)  get:149   start:804.90746   end:806.24620 
+reader(5)  get:149   start:806.24609   end:807.40856 
+reader(2)  get:149   start:807.40879   end:809.17929 
+reader(1)  get:149   start:809.17954   end:810.07773 
+reader(4)  get:149   start:810.07754   end:810.19474 
+reader(7)  get:149   start:810.19451   end:811.65998 
+writer(1)     start:811.66103    end:811.96052 
+reader(6)  get:150   start:811.96009   end:812.91228 
+writer(2)     start:812.91285    end:814.20407 
+reader(3)  get:151   start:814.20399   end:815.37722 
+reader(8)  get:151   start:815.37690   end:817.25844 
+reader(5)  get:151   start:817.25879   end:819.18905 
+reader(2)  get:151   start:819.18928   end:821.21098 
+reader(4)  get:151   start:821.21082   end:821.46898 
+reader(1)  get:151   start:821.46932   end:822.85955 
+reader(7)  get:151   start:822.85904   end:823.01230 
+writer(1)     start:823.01334    end:824.58378 
+reader(6)  get:152   start:824.58325   end:825.79862 
+writer(2)     start:825.79920    end:827.17542 
+reader(3)  get:153   start:827.17530   end:827.61184 
+reader(8)  get:153   start:827.61152   end:828.71107 
+reader(5)  get:153   start:828.71142   end:830.49267 
+reader(2)  get:153   start:830.49291   end:831.63643 
+reader(4)  get:153   start:831.63637   end:833.53396 
+reader(7)  get:153   start:833.53376   end:835.20335 
+reader(1)  get:153   start:835.20411   end:837.19550 
+writer(1)     start:837.19595    end:838.64615 
+reader(6)  get:154   start:838.64566   end:838.75713 
+writer(2)     start:838.75771    end:839.81122 
+reader(3)  get:155   start:839.81114   end:840.92669 
+reader(8)  get:155   start:840.92637   end:842.62906 
+reader(5)  get:155   start:842.62938   end:843.05704 
+reader(2)  get:155   start:843.05728   end:844.89905 
+reader(4)  get:155   start:844.89890   end:846.32426 
+reader(7)  get:155   start:846.32405   end:848.34046 
+reader(1)  get:155   start:848.34125   end:849.86471 
+reader(6)  get:155   start:849.86445   end:850.88277 
+writer(1)     start:850.88355    end:852.21093 
+writer(2)     start:852.21075    end:853.50442 
+reader(3)  get:157   start:853.50431   end:855.35797 
+reader(5)  get:157   start:855.35793   end:856.90821 
+reader(8)  get:157   start:856.90815   end:858.67647 
+reader(2)  get:157   start:858.67702   end:859.69677 
+reader(4)  get:157   start:859.69662   end:861.17494 
+reader(7)  get:157   start:861.17475   end:862.23827 
+reader(1)  get:157   start:862.23904   end:864.01136 
+reader(6)  get:157   start:864.01115   end:864.68702 
+writer(1)     start:864.68778    end:865.53901 
+writer(2)     start:865.53883    end:867.36038 
+reader(3)  get:159   start:867.36031   end:868.34900 
+reader(5)  get:159   start:868.34901   end:869.74133 
+reader(8)  get:159   start:869.74125   end:869.94849 
+reader(2)  get:159   start:869.94904   end:871.02064 
+reader(4)  get:159   start:871.02049   end:872.84883 
+reader(1)  get:159   start:872.84928   end:873.11256 
+reader(7)  get:159   start:873.11206   end:873.69321 
+writer(1)     start:873.69424    end:874.47345 
+reader(6)  get:160   start:874.47296   end:875.94827 
+writer(2)     start:875.94885    end:877.43557 
+reader(3)  get:161   start:877.43538   end:878.12009 
+reader(5)  get:161   start:878.12007   end:878.47929 
+reader(8)  get:161   start:878.47922   end:878.60665 
+reader(2)  get:161   start:878.60720   end:878.96144 
+reader(1)  get:161   start:878.96168   end:879.76907 
+writer(1)     start:879.76938    end:880.27800 
+reader(4)  get:162   start:880.27747   end:881.54567 
+reader(7)  get:162   start:881.54544   end:883.10888 
+reader(6)  get:162   start:883.10930   end:884.67568 
+writer(2)     start:884.67615    end:884.94161 
+reader(3)  get:163   start:884.94153   end:885.19468 
+reader(5)  get:163   start:885.19459   end:887.08314 
+reader(8)  get:163   start:887.08308   end:887.73929 
+reader(2)  get:163   start:887.73984   end:888.18146 
+writer(1)     start:888.18197    end:889.90559 
+reader(1)  get:164   start:889.90534   end:890.24557 
+reader(4)  get:164   start:890.24531   end:891.97769 
+reader(7)  get:164   start:891.97752   end:892.09668 
+writer(2)     start:892.09742    end:892.64578 
+reader(6)  get:165   start:892.64537   end:894.73900 
+reader(3)  get:165   start:894.73933   end:896.64475 
+reader(5)  get:165   start:896.64474   end:898.61150 
+reader(8)  get:165   start:898.61134   end:899.92580 
+reader(2)  get:165   start:899.92626   end:901.83088 
+writer(1)     start:901.83143    end:902.36482 
+reader(1)  get:166   start:902.36467   end:903.45317 
+reader(4)  get:166   start:903.45291   end:904.71515 
+writer(2)     start:904.71561    end:905.59406 
+reader(7)  get:167   start:905.59338   end:906.05015 
+reader(6)  get:167   start:906.05045   end:907.35703 
+reader(3)  get:167   start:907.35738   end:907.86008 
+reader(5)  get:167   start:907.86002   end:909.26057 
+reader(8)  get:167   start:909.26039   end:910.41959 
+reader(2)  get:167   start:910.42003   end:911.32716 
+writer(1)     start:911.32771    end:913.02024 
+reader(1)  get:168   start:913.01999   end:914.89822 
+reader(4)  get:168   start:914.89795   end:915.31227 
+reader(7)  get:168   start:915.31202   end:917.33823 
+writer(2)     start:917.33897    end:919.08131 
+reader(6)  get:169   start:919.08091   end:920.50431 
+reader(3)  get:169   start:920.50466   end:921.86006 
+reader(5)  get:169   start:921.86002   end:922.17836 
+reader(8)  get:169   start:922.17818   end:922.47753 
+reader(2)  get:169   start:922.47796   end:924.26926 
+writer(1)     start:924.26977    end:926.04342 
+reader(1)  get:170   start:926.04317   end:926.23493 
+reader(4)  get:170   start:926.23468   end:928.23412 
+reader(7)  get:170   start:928.23389   end:929.55702 
+reader(6)  get:170   start:929.55731   end:929.92380 
+writer(2)     start:929.92426    end:931.60449 
+reader(8)  get:171   start:931.60401   end:933.20631 
+reader(3)  get:171   start:933.20681   end:933.67545 
+reader(5)  get:171   start:933.67545   end:935.44731 
+reader(2)  get:171   start:935.44756   end:936.00575 
+writer(1)     start:936.00621    end:937.68539 
+reader(1)  get:172   start:937.68514   end:938.72952 
+reader(4)  get:172   start:938.72939   end:940.47796 
+reader(7)  get:172   start:940.47776   end:941.38443 
+reader(6)  get:172   start:941.38473   end:943.20015 
+writer(2)     start:943.20072    end:945.26202 
+reader(8)  get:173   start:945.26154   end:945.86865 
+reader(3)  get:173   start:945.86908   end:946.54559 
+reader(5)  get:173   start:946.54559   end:947.20277 
+reader(2)  get:173   start:947.20301   end:948.22452 
+writer(1)     start:948.22494    end:949.26817 
+reader(1)  get:174   start:949.26792   end:951.16435 
+reader(4)  get:174   start:951.16416   end:952.23563 
+reader(7)  get:174   start:952.23542   end:954.15385 
+reader(6)  get:174   start:954.15415   end:954.26759 
+writer(2)     start:954.26805    end:955.87866 
+reader(3)  get:175   start:955.87858   end:957.59294 
+reader(8)  get:175   start:957.59270   end:959.67649 
+reader(5)  get:175   start:959.67673   end:960.94924 
+reader(2)  get:175   start:960.94971   end:961.39546 
+writer(1)     start:961.39595    end:961.89522 
+reader(1)  get:176   start:961.89508   end:963.38378 
+reader(4)  get:176   start:963.38364   end:964.83315 
+reader(6)  get:176   start:964.83317   end:965.80342 
+reader(7)  get:176   start:965.80318   end:967.22356 
+writer(2)     start:967.22430    end:967.60970 
+reader(3)  get:177   start:967.60961   end:968.67207 
+reader(8)  get:177   start:968.67189   end:969.03627 
+reader(5)  get:177   start:969.03650   end:970.93770 
+reader(2)  get:177   start:970.93804   end:971.61123 
+writer(1)     start:971.61173    end:973.62593 
+reader(1)  get:178   start:973.62581   end:974.68888 
+reader(4)  get:178   start:974.68873   end:974.88202 
+reader(6)  get:178   start:974.88206   end:975.32743 
+writer(2)     start:975.32790    end:976.27525 
+reader(7)  get:179   start:976.27457   end:977.64092 
+reader(3)  get:179   start:977.64156   end:978.04924 
+reader(8)  get:179   start:978.04904   end:979.41738 
+reader(5)  get:179   start:979.41761   end:979.69199 
+reader(2)  get:179   start:979.69232   end:980.91104 
+writer(1)     start:980.91146    end:981.61141 
+reader(4)  get:180   start:981.61100   end:983.02567 
+reader(1)  get:180   start:983.02612   end:984.16740 
+reader(6)  get:180   start:984.16715   end:985.76091 
+writer(2)     start:985.76137    end:986.63501 
+reader(7)  get:181   start:986.63434   end:988.06150 
+reader(3)  get:181   start:988.06212   end:989.42440 
+reader(8)  get:181   start:989.42418   end:990.85275 
+reader(5)  get:181   start:990.85299   end:991.30120 
+reader(2)  get:181   start:991.30155   end:991.57932 
+writer(1)     start:991.57981    end:993.03401 
+reader(4)  get:182   start:993.03355   end:994.68988 
+reader(1)  get:182   start:994.69030   end:996.44459 
+reader(6)  get:182   start:996.44436   end:997.41757 
+writer(2)     start:997.41812    end:997.59281 
+reader(7)  get:183   start:997.59226   end:999.01442 
+reader(3)  get:183   start:999.01501   end:1000.06618 
+reader(8)  get:183   start:1000.06599   end:1000.39942 
+reader(2)  get:183   start:1000.39999   end:1001.82720 
+reader(5)  get:183   start:1001.82711   end:1003.43127 
+writer(1)     start:1003.43200    end:1004.43731 
+reader(4)  get:184   start:1004.43686   end:1004.88000 
+reader(1)  get:184   start:1004.88043   end:1005.65671 
+reader(6)  get:184   start:1005.65638   end:1006.83607 
+writer(2)     start:1006.83667    end:1007.83683 
+reader(7)  get:185   start:1007.83621   end:1009.27032 
+reader(3)  get:185   start:1009.27091   end:1011.18575 
+reader(8)  get:185   start:1011.18554   end:1012.75822 
+reader(2)  get:185   start:1012.75878   end:1014.12906 
+reader(5)  get:185   start:1014.12900   end:1015.08152 
+reader(4)  get:185   start:1015.08165   end:1017.07472 
+writer(1)     start:1017.07541    end:1017.19307 
+reader(1)  get:186   start:1017.19282   end:1018.77414 
+reader(6)  get:186   start:1018.77392   end:1020.82337 
+writer(2)     start:1020.82396    end:1022.01576 
+reader(7)  get:187   start:1022.01520   end:1022.57976 
+reader(3)  get:187   start:1022.58038   end:1024.52109 
+reader(8)  get:187   start:1024.52085   end:1026.34157 
+reader(2)  get:187   start:1026.34201   end:1026.47660 
+reader(5)  get:187   start:1026.47643   end:1027.23099 
+writer(1)     start:1027.23172    end:1028.05831 
+reader(4)  get:188   start:1028.05788   end:1028.46043 
+reader(1)  get:188   start:1028.46075   end:1028.99417 
+reader(6)  get:188   start:1028.99396   end:1030.65857 
+writer(2)     start:1030.65916    end:1032.43440 
+reader(7)  get:189   start:1032.43385   end:1033.13842 
+reader(3)  get:189   start:1033.13900   end:1034.94362 
+reader(2)  get:189   start:1034.94379   end:1037.01096 
+reader(8)  get:189   start:1037.01058   end:1039.09721 
+reader(5)  get:189   start:1039.09745   end:1040.74776 
+reader(4)  get:189   start:1040.74795   end:1041.32962 
+writer(1)     start:1041.33040    end:1041.61686 
+reader(1)  get:190   start:1041.61671   end:1042.09514 
+reader(6)  get:190   start:1042.09489   end:1042.58709 
+writer(2)     start:1042.58765    end:1044.50702 
+reader(7)  get:191   start:1044.50673   end:1045.65329 
+reader(3)  get:191   start:1045.65392   end:1046.34409 
+reader(2)  get:191   start:1046.34426   end:1047.08624 
+reader(8)  get:191   start:1047.08587   end:1047.27980 
+reader(4)  get:191   start:1047.28018   end:1047.66343 
+reader(5)  get:191   start:1047.66356   end:1047.94114 
+writer(1)     start:1047.94187    end:1048.93419 
+reader(6)  get:192   start:1048.93357   end:1049.65601 
+reader(1)  get:192   start:1049.65654   end:1049.93576 
+writer(2)     start:1049.93598    end:1051.92464 
+reader(7)  get:193   start:1051.92408   end:1052.82271 
+reader(3)  get:193   start:1052.82330   end:1054.22358 
+reader(8)  get:193   start:1054.22337   end:1054.56888 
+reader(2)  get:193   start:1054.56932   end:1055.11670 
+reader(5)  get:193   start:1055.11663   end:1055.30579 
+reader(4)  get:193   start:1055.30596   end:1056.64739 
+reader(6)  get:193   start:1056.64746   end:1057.55760 
+writer(1)     start:1057.55827    end:1058.97173 
+reader(1)  get:194   start:1058.97156   end:1059.48317 
+writer(2)     start:1059.48339    end:1060.79705 
+reader(7)  get:195   start:1060.79659   end:1061.62789 
+reader(3)  get:195   start:1061.62846   end:1062.67557 
+reader(2)  get:195   start:1062.67576   end:1064.71892 
+reader(5)  get:195   start:1064.71887   end:1066.41418 
+reader(8)  get:195   start:1066.41411   end:1068.44158 
+reader(4)  get:195   start:1068.44195   end:1069.95123 
+reader(6)  get:195   start:1069.95130   end:1070.77574 
+writer(1)     start:1070.77641    end:1072.58575 
+reader(1)  get:196   start:1072.58558   end:1073.06985 
+writer(2)     start:1073.07003    end:1074.13179 
+reader(7)  get:197   start:1074.13123   end:1076.20984 
+reader(3)  get:197   start:1076.21046   end:1076.44943 
+reader(2)  get:197   start:1076.44960   end:1077.69589 
+reader(5)  get:197   start:1077.69580   end:1079.15035 
+reader(8)  get:197   start:1079.15026   end:1081.22255 
+reader(4)  get:197   start:1081.22292   end:1081.57557 
+reader(6)  get:197   start:1081.57566   end:1082.74693 
+writer(1)     start:1082.74760    end:1084.28720 
+writer(2)     start:1084.28703    end:1085.53910 
+reader(1)  get:199   start:1085.53923   end:1086.33075 
+reader(3)  get:199   start:1086.33075   end:1087.61789 
+reader(7)  get:199   start:1087.61756   end:1089.07775 
+reader(2)  get:199   start:1089.07830   end:1089.54085 
+reader(5)  get:199   start:1089.54079   end:1090.11496 
+reader(8)  get:199   start:1090.11491   end:1090.55267 
+reader(4)  get:199   start:1090.55301   end:1092.54547 
+reader(6)  get:199   start:1092.54554   end:1093.39577 
+writer(1)     start:1093.39645    end:1093.71291 
+writer(2)     start:1093.71273    end:1094.40734 
+reader(1)  get:201   start:1094.40742   end:1095.51810 
+reader(3)  get:201   start:1095.51814   end:1096.86956 
+reader(2)  get:201   start:1096.86976   end:1097.79420 
+reader(5)  get:201   start:1097.79413   end:1098.10440 
+reader(7)  get:201   start:1098.10420   end:1098.65239 
+reader(8)  get:201   start:1098.65267   end:1099.60624 
+reader(6)  get:201   start:1099.60643   end:1101.26184 
+reader(4)  get:201   start:1101.26194   end:1101.71459 
+writer(2)     start:1101.71509    end:1103.56281 
+writer(1)     start:1103.56305    end:1104.75922 
+reader(1)  get:203   start:1104.75907   end:1105.43446 
+reader(3)  get:203   start:1105.43442   end:1106.30377 
+reader(5)  get:203   start:1106.30375   end:1107.26528 
+reader(7)  get:203   start:1107.26510   end:1108.97564 
+reader(2)  get:203   start:1108.97620   end:1109.60575 
+reader(8)  get:203   start:1109.60549   end:1111.46796 
+reader(6)  get:203   start:1111.46824   end:1113.10776 
+reader(4)  get:203   start:1113.10788   end:1113.56629 
+writer(2)     start:1113.56679    end:1114.55759 
+reader(3)  get:204   start:1114.55744   end:1116.51373 
+reader(1)  get:204   start:1116.51402   end:1118.10162 
+writer(1)     start:1118.10204    end:1118.23646 
+reader(5)  get:205   start:1118.23599   end:1118.64043 
+reader(2)  get:205   start:1118.64078   end:1119.81003 
+reader(7)  get:205   start:1119.80952   end:1120.56676 
+reader(8)  get:205   start:1120.56707   end:1122.05372 
+reader(6)  get:205   start:1122.05399   end:1122.94350 
+writer(2)     start:1122.94408    end:1123.41341 
+reader(4)  get:206   start:1123.41320   end:1124.30153 
+reader(3)  get:206   start:1124.30181   end:1124.60915 
+reader(1)  get:206   start:1124.60947   end:1124.89184 
+writer(1)     start:1124.89235    end:1125.84767 
+reader(5)  get:207   start:1125.84724   end:1126.48576 
+reader(2)  get:207   start:1126.48614   end:1126.68653 
+reader(7)  get:207   start:1126.68603   end:1128.56770 
+reader(8)  get:207   start:1128.56798   end:1128.99171 
+reader(6)  get:207   start:1128.99202   end:1130.87034 
+writer(2)     start:1130.87094    end:1131.95110 
+reader(3)  get:208   start:1131.95090   end:1132.35122 
+reader(4)  get:208   start:1132.35117   end:1133.69869 
+writer(1)     start:1133.69929    end:1135.12787 
+reader(1)  get:209   start:1135.12773   end:1136.53221 
+reader(5)  get:209   start:1136.53195   end:1138.53316 
+reader(2)  get:209   start:1138.53348   end:1139.80286 
+reader(8)  get:209   start:1139.80260   end:1141.55521 
+reader(7)  get:209   start:1141.55520   end:1141.65992 
+reader(6)  get:209   start:1141.66024   end:1142.21869 
+writer(2)     start:1142.21925    end:1144.21869 
+reader(3)  get:210   start:1144.21849   end:1145.94892 
+reader(4)  get:210   start:1145.94881   end:1147.58801 
+writer(1)     start:1147.58861    end:1148.75798 
+reader(1)  get:211   start:1148.75790   end:1150.65128 
+reader(5)  get:211   start:1150.65100   end:1152.52727 
+reader(2)  get:211   start:1152.52760   end:1154.22786 
+reader(8)  get:211   start:1154.22758   end:1156.26425 
+reader(7)  get:211   start:1156.26424   end:1156.95410 
+reader(6)  get:211   start:1156.95451   end:1158.08976 
+writer(2)     start:1158.09031    end:1159.05088 
+reader(3)  get:212   start:1159.05068   end:1160.27397 
+reader(4)  get:212   start:1160.27387   end:1161.55504 
+writer(1)     start:1161.55564    end:1161.73116 
+reader(1)  get:213   start:1161.73103   end:1163.55362 
+reader(5)  get:213   start:1163.55343   end:1165.25612 
+reader(2)  get:213   start:1165.25648   end:1166.00083 
+reader(8)  get:213   start:1166.00054   end:1166.83324 
+reader(7)  get:213   start:1166.83324   end:1167.13299 
+writer(2)     start:1167.13373    end:1168.83545 
+reader(6)  get:214   start:1168.83513   end:1170.69751 
+reader(3)  get:214   start:1170.69787   end:1172.67645 
+reader(4)  get:214   start:1172.67636   end:1174.22760 
+writer(1)     start:1174.22819    end:1176.09261 
+reader(1)  get:215   start:1176.09249   end:1176.82727 
+reader(5)  get:215   start:1176.82711   end:1178.41756 
+reader(8)  get:215   start:1178.41750   end:1179.36517 
+reader(2)  get:215   start:1179.36561   end:1179.65915 
+reader(7)  get:215   start:1179.65865   end:1180.70220 
+writer(2)     start:1180.70295    end:1182.01663 
+reader(6)  get:216   start:1182.01632   end:1184.03260 
+reader(3)  get:216   start:1184.03294   end:1185.97426 
+reader(4)  get:216   start:1185.97416   end:1186.11932 
+reader(1)  get:216   start:1186.11976   end:1186.51851 
+writer(1)     start:1186.51887    end:1188.42158 
+reader(5)  get:217   start:1188.42115   end:1190.31461 
+reader(2)  get:217   start:1190.31492   end:1191.24611 
+reader(8)  get:217   start:1191.24583   end:1191.95529 
+reader(7)  get:217   start:1191.95532   end:1193.09682 
+writer(2)     start:1193.09755    end:1194.63399 
+reader(6)  get:218   start:1194.63365   end:1195.01806 
+reader(3)  get:218   start:1195.01838   end:1195.40099 
+reader(4)  get:218   start:1195.40089   end:1196.15241 
+reader(1)  get:218   start:1196.15285   end:1197.41226 
+writer(1)     start:1197.41270    end:1197.81345 
+reader(5)  get:219   start:1197.81290   end:1199.72853 
+
+
+writer count:219 writer time:244.52797 
+reader count:865 reader time:955.08227 
